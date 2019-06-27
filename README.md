@@ -1,5 +1,6 @@
 # Petie-Kiosk
 A kiosk mode mah dude, get it to load on boot mah dude.
+
 `sudo apt-get install xdotool unclutter sed`
 
 `sudo raspi-config`
